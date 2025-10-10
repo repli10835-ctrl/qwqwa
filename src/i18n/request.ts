@@ -1,9 +1,7 @@
 import { getRequestConfig } from 'next-intl/server';
-import { headers } from 'next/headers';
 
 export default getRequestConfig(async () => {
-  const headersList = await headers();
-  const locale = headersList.get('x-locale') || 'id';
+  const locale = 'id';
 
   return {
     locale,

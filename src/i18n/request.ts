@@ -1,9 +1,9 @@
 import { getRequestConfig } from 'next-intl/server';
-import { cookies } from 'next/headers';
+import { headers } from 'next/headers';
 
 export default getRequestConfig(async () => {
-  const cookieStore = await cookies();
-  const locale = cookieStore.get('NEXT_LOCALE')?.value || 'id';
+  const headersList = await headers();
+  const locale = headersList.get('x-locale') || 'id';
 
   return {
     locale,

@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "findFlights": "Find Flights",
+    "findHotels": "Find Hotels",
+    "login": "Login",
+    "signup": "Sign up"
+  },
+  "hero": {
+    "title": "Explore the World With Us",
+    "subtitle": "Find the best deals on flights, hotels, and vacation packages"
+  },
+  "search": {
+    "from": "From",
+    "to": "To",
+    "departure": "Departure",
+    "return": "Return",
+    "travelers": "Travelers",
+    "class": "Class",
+    "searchFlights": "Search Flights",
+    "economy": "Economy",
+    "business": "Business",
+    "firstClass": "First Class",
+    "traveler": "traveler",
+    "travelers_plural": "travelers"
+  },
+  "destinations": {
+    "popularFlights": "Popular Flight Destinations",
+    "popularHotels": "Popular Hotel Destinations",
+    "exploreDeals": "Explore our best deals"
+  },
+  "cta": {
+    "saveMore": "Save More",
+    "saveMoreDesc": "Get up to 30% off on package bookings",
+    "easyBooking": "Easy Booking",
+    "easyBookingDesc": "Fast and secure booking process",
+    "support": "24/7 Support",
+    "supportDesc": "Our team is ready to help you anytime"
+  },
+  "reviews": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real experiences from thousands of satisfied customers"
+  },
+  "newsletter": {
+    "title": "Get the Best Deals",
+    "subtitle": "Subscribe to our newsletter for exclusive offers",
+    "placeholder": "Enter your email",
+    "subscribe": "Subscribe"
+  },
+  "footer": {
+    "description": "Your trusted travel platform for flights, hotels, and vacation packages.",
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "press": "Press",
+    "support": "Support",
+    "help": "Help Center",
+    "contact": "Contact Us",
+    "legal": "Legal",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "rights": "All Rights Reserved"
+  },
+  "login": {
+    "title": "Login to Your Account",
+    "subtitle": "Welcome back! Please enter your details.",
+    "email": "Email",
+    "emailPlaceholder": "enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "enter your password",
+    "forgotPassword": "Forgot password?",
+    "loginButton": "Login",
+    "noAccount": "Don't have an account?",
+    "signupLink": "Sign up"
+  },
+  "register": {
+    "title": "Create Account",
+    "subtitle": "Join us today!",
+    "name": "Full Name",
+    "namePlaceholder": "enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "confirm your password",
+    "registerButton": "Register",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login"
+  },
+  "flights": {
+    "title": "Search Flights",
+    "filters": "Filters",
+    "priceRange": "Price Range",
+    "stops": "Stops",
+    "direct": "Direct",
+    "oneStop": "1 Stop",
+    "twoPlus": "2+ Stops",
+    "airlines": "Airlines",
+    "departureTime": "Departure Time",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "results": "results found",
+    "details": "Details",
+    "book": "Book"
+  },
+  "packages": {
+    "title": "Vacation Packages",
+    "days": "days",
+    "nights": "nights",
+    "viewDetails": "View Details",
+    "bookNow": "Book Now"
+  },
+  "payment": {
+    "title": "Payment",
+    "summary": "Booking Summary",
+    "total": "Total",
+    "confirm": "Confirm Payment"
+  }
+}

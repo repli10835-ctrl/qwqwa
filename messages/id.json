@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "findFlights": "Cari Penerbangan",
+    "findHotels": "Cari Hotel",
+    "login": "Masuk",
+    "signup": "Daftar"
+  },
+  "hero": {
+    "title": "Jelajahi Dunia Bersama Kami",
+    "subtitle": "Temukan penawaran terbaik untuk penerbangan, hotel, dan paket liburan"
+  },
+  "search": {
+    "from": "Dari",
+    "to": "Ke",
+    "departure": "Berangkat",
+    "return": "Pulang",
+    "travelers": "Penumpang",
+    "class": "Kelas",
+    "searchFlights": "Cari Penerbangan",
+    "economy": "Ekonomi",
+    "business": "Bisnis",
+    "firstClass": "Kelas Utama",
+    "traveler": "penumpang",
+    "travelers_plural": "penumpang"
+  },
+  "destinations": {
+    "popularFlights": "Destinasi Penerbangan Populer",
+    "popularHotels": "Destinasi Hotel Populer",
+    "exploreDeals": "Jelajahi penawaran terbaik kami"
+  },
+  "cta": {
+    "saveMore": "Hemat Lebih Banyak",
+    "saveMoreDesc": "Dapatkan diskon hingga 30% untuk pemesanan paket",
+    "easyBooking": "Pemesanan Mudah",
+    "easyBookingDesc": "Proses pemesanan yang cepat dan aman",
+    "support": "Dukungan 24/7",
+    "supportDesc": "Tim kami siap membantu Anda kapan saja"
+  },
+  "reviews": {
+    "title": "Apa Kata Pelanggan Kami",
+    "subtitle": "Pengalaman nyata dari ribuan pelanggan yang puas"
+  },
+  "newsletter": {
+    "title": "Dapatkan Penawaran Terbaik",
+    "subtitle": "Berlangganan newsletter kami untuk mendapatkan penawaran eksklusif",
+    "placeholder": "Masukkan email Anda",
+    "subscribe": "Berlangganan"
+  },
+  "footer": {
+    "description": "Platform perjalanan terpercaya Anda untuk penerbangan, hotel, dan paket liburan.",
+    "company": "Perusahaan",
+    "about": "Tentang Kami",
+    "careers": "Karir",
+    "press": "Media",
+    "support": "Dukungan",
+    "help": "Pusat Bantuan",
+    "contact": "Hubungi Kami",
+    "legal": "Hukum",
+    "terms": "Syarat & Ketentuan",
+    "privacy": "Kebijakan Privasi",
+    "rights": "Hak Cipta Dilindungi"
+  },
+  "login": {
+    "title": "Masuk ke Akun Anda",
+    "subtitle": "Selamat datang kembali! Silakan masukkan detail Anda.",
+    "email": "Email",
+    "emailPlaceholder": "masukkan email Anda",
+    "password": "Kata Sandi",
+    "passwordPlaceholder": "masukkan kata sandi Anda",
+    "forgotPassword": "Lupa kata sandi?",
+    "loginButton": "Masuk",
+    "noAccount": "Belum punya akun?",
+    "signupLink": "Daftar"
+  },
+  "register": {
+    "title": "Buat Akun",
+    "subtitle": "Bergabunglah dengan kami hari ini!",
+    "name": "Nama Lengkap",
+    "namePlaceholder": "masukkan nama lengkap Anda",
+    "email": "Email",
+    "emailPlaceholder": "masukkan email Anda",
+    "password": "Kata Sandi",
+    "passwordPlaceholder": "masukkan kata sandi Anda",
+    "confirmPassword": "Konfirmasi Kata Sandi",
+    "confirmPasswordPlaceholder": "konfirmasi kata sandi Anda",
+    "registerButton": "Daftar",
+    "haveAccount": "Sudah punya akun?",
+    "loginLink": "Masuk"
+  },
+  "flights": {
+    "title": "Cari Penerbangan",
+    "filters": "Filter",
+    "priceRange": "Rentang Harga",
+    "stops": "Transit",
+    "direct": "Langsung",
+    "oneStop": "1 Transit",
+    "twoPlus": "2+ Transit",
+    "airlines": "Maskapai",
+    "departureTime": "Waktu Berangkat",
+    "morning": "Pagi",
+    "afternoon": "Siang",
+    "evening": "Malam",
+    "results": "hasil ditemukan",
+    "details": "Detail",
+    "book": "Pesan"
+  },
+  "packages": {
+    "title": "Paket Liburan",
+    "days": "hari",
+    "nights": "malam",
+    "viewDetails": "Lihat Detail",
+    "bookNow": "Pesan Sekarang"
+  },
+  "payment": {
+    "title": "Pembayaran",
+    "summary": "Ringkasan Pemesanan",
+    "total": "Total",
+    "confirm": "Konfirmasi Pembayaran"
+  }
+}
